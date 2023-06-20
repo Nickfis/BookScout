@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  BookScout
+//
+//  Created by Niklas Fischer on 17/6/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+AWS_ACCESS_KEY=AKIAUYXK6RXHEFVPBB76
+AWS_SECRET_ACCESS_KEY=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
